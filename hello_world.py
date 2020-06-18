@@ -1,13 +1,9 @@
-#crash course programming in python by
-#Eric Matthes, book issued by Visual Steps
-
-# pg 90 
+#
+#
 message='hello Python world!'
 print(message)
-message='hello Python Crash Course world!'
+message="oland uses this repository for the 'bronnen' project"
 print(message)
-message='hello Roland!!'
-print(message)
-#Roland uses this file for code learning
+
 
 
